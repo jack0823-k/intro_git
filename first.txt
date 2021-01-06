@@ -1,2 +1,4 @@
 Gitの練習をしていきます。
-kihonn
+git add 
+git commit
+
