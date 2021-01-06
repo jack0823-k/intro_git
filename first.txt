@@ -1,5 +1,5 @@
 Gitの練習をしていきます。
 git add 
 git commit
-追加の練習
 git status
+git diff
